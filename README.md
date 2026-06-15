@@ -2,10 +2,6 @@
 
 ### A passionate developer from around the world
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hihub111&label=Profile views&color=0e75b6&style=flat" alt="hihub111" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hihub111" alt="hihub111" /></a> </p>
-
 - 🔭 I'm currently working on **A personal "Second Brain" built with Obsidian to manage technical projects, psychology notes, and cross-disciplinary knowledge;
 A web-based emotional care AI application built with Vue3 and Node.js.**
 
